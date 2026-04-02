@@ -2,29 +2,6 @@
 <img src="https://brand.web4.dev/web4/header/light.svg">
 <br /><br /><br /><br />
 
-```html
-<!-- MyButton.html -->
-
-<script lang="C#">
-    // 🚨🚨🚨 ⬆︎ HTML support for ANY language! 🚨🚨🚨
-    void OnClick(Event e)
-    {
-        c++;
-    }
-</script>
-
-<button onclick={e => OnClick(e)}>
-    Clicks:  {c}
-    <!--🚨🚨🚨 ⬆︎ HTML support for reactivity – no framework! 🚨🚨🚨-->
-</button>
-
-<!--
-  Compile your HTML
-    • to a native binary for multiplayer-reactivity + zero-cost dependencies  (mutates the DOM from a WebSocket)
-    • to a WASM binary for offline-reactivity + static hosting                (mutates the DOM from WebAssembly)
--->
-```
-
 About
 -----
 
