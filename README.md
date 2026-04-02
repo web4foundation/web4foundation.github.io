@@ -15,7 +15,7 @@ The story of the web is written in chapters not generations.  Generations replac
 | Chapter | Computing Paradigm | What it Enabled | Execution Location | Categories Unlocked |
 |---|---|---|---|---|
 | Web1 | Personal Computing | Static documents | Server-side | Long-form content<br /><sub>academic papers, news, blogs, marketing sites, etc</sub> |
-| Web2 | Cloud Computing | Dynamic webpages | Client-side | Short-form content<br /><sub>e-commerce, social media, etc</sub> |
+| Web2 | Cloud Computing | Dynamic webpages | Client-side | Short-form content<br /><sub>social media, e-commerce, etc</sub> |
 | Web3 | Decentralized Computing | Smart contracts | Peer-to-peer | Transactional content<br /><sub>DeFi, digital ownership, etc</sub> |
 | Web4 | Edge Computing | Local-first apps | Edge-side / WASM | Function over content<br /><sub>utilities, games, collaborative, productivity, etc</sub> |
 
