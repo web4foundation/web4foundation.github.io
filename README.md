@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="0; url=https://github.com/web4foundation">
+
 <br /><br /><br /><br />
 <img src="https://brand.web4.dev/web4/header/light.svg">
 <br /><br /><br /><br />
